@@ -1,1 +1,1 @@
-this is my reader file ok
+this is my reader file
